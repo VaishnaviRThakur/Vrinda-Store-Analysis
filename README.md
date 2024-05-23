@@ -1,5 +1,6 @@
 # Vrinda-Store-Analysis
 This project analyses the sales data of Vrinda Store to understand customer behavior and ultimately increase sales in the coming year.
+INSIGHTS:
 
 1.Women are more likely to buy compare to men (64%)
 
